@@ -1,4 +1,2 @@
 hola esta es una prueba
 segundo commit
-tercer commit
-cuarto commit
